@@ -25,6 +25,6 @@
 
 ## 📊 GitHub Stats
 
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?hidden-yazaki=hidden-yazaki&show_icons=true&theme=default)
+![William's GitHub stats](https://github-readme-stats.vercel.app/api?hidden-yazaki=william.hidden@us.yazaki.com&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?hidden-yazaki=hidden-yazaki&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?hidden-yazaki=william.hidden@us.yazaki.com&layout=compact&theme=default)
