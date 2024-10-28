@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **machine learning applications in Python**
 - 🌱 I’m learning **Rust**, **Flask**, and **GraphQL**
 - 💬 Ask me about **machine learning**, **Python**, and **data science**
-- 😄 Pronouns: **He/She**
+- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love hiking and yoga**
 
 ## 🚀 Skills
@@ -25,6 +25,6 @@
 
 ## 📊 GitHub Stats
 
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?hidden-yazaki=william.hidden@us.yazaki.com&show_icons=true&theme=default)
+![William's GitHub stats](https://github-readme-stats.vercel.app/api?william.hidden@us.yazaki.com=hidden-yazaki&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?hidden-yazaki=william.hidden@us.yazaki.com&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?william.hidden@us.yazaki.com=hidden-yazaki&layout=compact&theme=default)
