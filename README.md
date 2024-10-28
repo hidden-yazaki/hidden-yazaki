@@ -25,6 +25,6 @@
 
 ## 📊 GitHub Stats
 
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+![William's GitHub stats](https://github-readme-stats.vercel.app/api?hidden-yazaki=hidden-yazaki&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?hidden-yazaki=hidden-yazaki&layout=compact&theme=default)
